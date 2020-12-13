@@ -1,0 +1,22 @@
+<!--pages/FormSubmit/index.js.wxml-->
+<text>pages/FormSubmit/index.js.wxml</text>
+
+<view>
+名称<input type='text' name='名称'/>
+</view>
+
+<view>
+地址信息<input type='text' name='位置'/>
+</view>
+
+<view>
+<input type='text' name='存放物体'/>
+</view>
+
+<view>
+<input type='text' name='详细信息'/>
+</view>
+
+<view>
+  <button type='primary' bindtap='submitForm'></button>>
+</view>
